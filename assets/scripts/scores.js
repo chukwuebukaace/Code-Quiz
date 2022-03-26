@@ -3,7 +3,7 @@ var goBackButtonEl = document.getElementById("go-back");
 var resetScoresButtonEl = document.getElementById("reset-scores");
 var scoreListEl = document.getElementById("score-list");
 
-// Variables
+// Variable
 var scoresArray = []; // scores array with strings from localStorage
 var scoresArrayInt = []; // scores array with scores converted to int for sorting
 
